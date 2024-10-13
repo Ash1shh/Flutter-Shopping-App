@@ -2,7 +2,7 @@
 
   <img src="https://imgs.search.brave.com/P_53Bo15xcXx4e1Z2yajXibt5EnOaRg71HGpyziWpMk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL0YvZmx1dHRl/ci1sb2dvLTUwODZE/RDExQzUtc2Vla2xv/Z28uY29tLnBuZw" alt="logo" width="200" height="auto" />
   
-# MODERN PORTFOLIO!
+# FLUTTER SHOPPING APP!
   
   <p>
    Shopping App With Flutter and Dart
